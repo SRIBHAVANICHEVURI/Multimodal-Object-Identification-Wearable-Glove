@@ -29,7 +29,8 @@ Tactile Sensors ───────┐
 Conductivity Sensors ──┼──>   Sensor Data Acquisition
                        
                                      
-Olfactory Sensor ──────┘              ↓
+Olfactory Sensor ──────┘             
+                                      ↓
 
                               Data Synchronization
                               
