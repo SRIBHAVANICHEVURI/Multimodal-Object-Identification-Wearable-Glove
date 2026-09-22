@@ -62,20 +62,15 @@ Olfactory Sensor ──────┘
 
 # Hardware
 
-ESP32-S3
-Tactile sensors
-Conductivity sensors
-Olfactory sensing using BME688
-Machine Learning
+ESP32-S3, Tactile sensors, Conductivity sensors, Olfactory sensing using BME688
+
+# Software
 
 The project uses a deep-learning-based multimodal recognition framework involving:
-CNN
-BiLSTM
-Multimodal sensor fusion
-Feature extraction
-Time-series sensor signal processing
-The CNN–BiLSTM framework is used to learn spatial and temporal characteristics from multimodal sensor signals.
-Sensor Modalities
+CNN, BiLSTM, Multimodal sensor fusion,Feature extraction, Time-series sensor signal processing, The CNN–BiLSTM framework is used to learn spatial and temporal characteristics from multimodal sensor signals.
+
+# Sensor Modalities
+
 Tactile Sensing: Captures pressure-related interaction patterns and physical characteristics of materials.
 Conductivity Sensing: Captures electrical characteristics of material surfaces.
 Olfactory Sensing: Captures gas-related information associated with different materials.
