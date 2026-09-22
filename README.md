@@ -26,10 +26,11 @@ The overall workflow is:
 Tactile Sensors ───────┐
                        
                        
-Conductivity Sensors ──┼──>  Sensor Data Acquisition
+Conductivity Sensors ──┼──>   Sensor Data Acquisition
                        
                                      
 Olfactory Sensor ──────┘              ↓
+
                               Data Synchronization
                               
                                       ↓
