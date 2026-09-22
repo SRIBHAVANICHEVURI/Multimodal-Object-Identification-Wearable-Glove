@@ -72,7 +72,9 @@ CNN, BiLSTM, Multimodal sensor fusion,Feature extraction, Time-series sensor sig
 # Sensor Modalities
 
 Tactile Sensing: Captures pressure-related interaction patterns and physical characteristics of materials.
+
 Conductivity Sensing: Captures electrical characteristics of material surfaces.
+
 Olfactory Sensing: Captures gas-related information associated with different materials.
 
 # Processing Pipeline
