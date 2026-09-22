@@ -30,6 +30,8 @@ Conductivity Sensors ──┼──>   Sensor Data Acquisition
                        
                                      
 Olfactory Sensor ──────┘             
+                                   
+                                      
                                       ↓
 
                               Data Synchronization
