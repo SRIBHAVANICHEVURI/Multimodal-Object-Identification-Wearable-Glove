@@ -24,10 +24,10 @@ Develop a multimodal sensing and deep learning framework capable of identifying 
 The overall workflow is:
 
 Tactile Sensors ───────┐
-                  
+                       |
                        │
 Conductivity Sensors ──┼──>  Sensor Data Acquisition
-                       
+                       |
                        │              │
 Olfactory Sensor ──────┘              ↓
                               Data Synchronization
