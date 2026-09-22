@@ -88,23 +88,15 @@ Unimodal learning
 Bimodal and trimodal fusion
 Performance evaluation
 Real-time material prediction
-Evaluation
-
-The system is evaluated using standard classification metrics:
-Accuracy
-Precision
-Recall
-F1-score
-Confusion Matrix
+Evaluation: The system is evaluated using standard classification metrics- Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
 # Applications
 
 Potential applications include: Assistive technology, Low-visibility environments, Intelligent wearables, Industrial material sorting, Robotics, Human–machine interaction, Search and rescue environments
 
-Project Documentation: The repository contains project documentation, system architecture, selected results, and demonstration images.
+# Project Documentation: 
+The repository contains project documentation, system architecture, selected results, and demonstration images.
 The source code and dataset are not included in this repository.
-
-
 
 # Institution
 Amrita Vishwa Vidyapeetham, Bengaluru
